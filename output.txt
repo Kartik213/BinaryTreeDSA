@@ -1,0 +1,46 @@
+Level Order
+20 
+8 22 
+4 12 25 
+10 14 
+Inorder: 4 8 10 12 14 20 22 25 
+Preorder: 20 8 4 12 10 14 22 25 
+Postorder: 4 10 14 12 8 25 22 20 
+Number of Leaf Node: 4
+Height of Binary Tree: 4
+Diameter of Binary Tree: 6
+Slow method for Diameter of Binary Tree: 6
+Tree is balanced
+Not a sum tree
+Zig Zag traversal: 
+20 
+22 8 
+4 12 25 
+14 10 
+Boundary Traversal: 20 8 4 10 14 25 22 
+Vertical order Traversal: 4 8 10 20 12 22 14 25 
+Top view of Binary Tree: 4 8 20 22 25 
+Bottom view of Binary Tree: 4 10 12 14 25 
+Left view of Binary Tree using level order: 20 8 4 10 
+Left view of Binary Tree using recursion: 20 8 4 10 
+Right view of Binary Tree using recursion: 20 22 25 14 
+Sum of nodes on the longest path of the binary tree: 67
+Lowest common ancestor of 4 amd 14: 20
+1
+Path: 20 8 4 
+2nd Ancestor of 12: 20
+Maximum sum of nom adjacent nodes: 71
+Build tree using Inorder and Preorder then printing its Postorder: 4 10 14 12 8 25 22 20 
+Build tree using Inorder and Postorder then printing its Preorder: 20 8 4 12 10 14 22 25 
+Child to Parent mapping: 
+25 -> 22
+4 -> 8
+12 -> 8
+22 -> 20
+8 -> 20
+14 -> 12
+10 -> 12
+Time to burn the entire tree: 4
+
+
+Max size BST: 4
